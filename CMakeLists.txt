@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
-
 project(homework_project)
-
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR})
+    
 add_executable(main main.cpp my_add.cpp)
 
 include(FetchContent)
