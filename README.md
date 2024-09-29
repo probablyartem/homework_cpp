@@ -5,5 +5,5 @@
 ### 1. Настроена система сборки, использующая CMAKE, Github Actions
 ### 2. Добавлен unit-тест (googletest)
 ### 3. Добавлен benchmark (googlebenchmark)
-### 4. Настроена автоматическая публикация документации проекта 
+### 4. Настроена автоматическая публикация документации проекта (https://probablyartem.github.io/homework_cpp/globals.html)
 
