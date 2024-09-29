@@ -1,7 +1,5 @@
 var searchData=
 [
-  ['сборки_20использующая_20cmake_20github_20actions_0',['1. Настроена система сборки, использующая CMAKE, Github Actions',['../md_README.html#autotoc_md2',1,'']]],
-  ['сделано_3a_1',['Было сделано:',['../md_README.html#autotoc_md1',1,'']]],
-  ['система_20сборки_20использующая_20cmake_20github_20actions_2',['1. Настроена система сборки, использующая CMAKE, Github Actions',['../md_README.html#autotoc_md2',1,'']]],
-  ['с_20для_20количественного_20анализа_20и_20алгоритмической_20торговли_3',['Проект домашней работы по курсу &quot;Программная инженерия и С++ для количественного анализа и алгоритмической торговли&quot;',['../md_README.html',1,'']]]
+  ['настроена_20автоматическая_20публикация_20документации_20проекта_20https_3a_20probablyartem_20github_20io_20homework_5fcpp_20globals_20html_0',['4. Настроена автоматическая публикация документации проекта (https://probablyartem.github.io/homework_cpp/globals.html)',['../md_README.html#autotoc_md5',1,'']]],
+  ['настроена_20система_20сборки_20использующая_20cmake_20github_20actions_1',['1. Настроена система сборки, использующая CMAKE, Github Actions',['../md_README.html#autotoc_md2',1,'']]]
 ];
