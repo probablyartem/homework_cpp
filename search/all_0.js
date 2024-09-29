@@ -1,6 +1,4 @@
 var searchData=
 [
-  ['a_20first_20level_20heading_0',['A first-level heading',['../md_README.html',1,'']]],
-  ['a_20second_20level_20heading_1',['A second-level heading',['../md_README.html#autotoc_md1',1,'']]],
-  ['a_20third_20level_20heading_2',['A third-level heading',['../md_README.html#autotoc_md2',1,'']]]
+  ['1_20настроена_20система_20сборки_20использующая_20cmake_20github_20actions_0',['1. Настроена система сборки, использующая CMAKE, Github Actions',['../md_README.html#autotoc_md2',1,'']]]
 ];
